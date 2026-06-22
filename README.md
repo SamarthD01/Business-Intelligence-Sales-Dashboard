@@ -42,6 +42,10 @@ The dashboard helps businesses monitor key performance indicators (KPIs), track 
 
 ### Main Dashboard
 
+![Dashboard_3](Dashboard_3.png)
+
+![Dashboard_2](Dashboard_2.png)
+
 ![Dashboard_1](Dashboard_1.png)
 
 ---
